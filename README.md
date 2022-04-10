@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/pzeel2/pzeel2.github.io/main/img/mario.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/Zeelpatel02/Zeelpatel02.github.io/main/img/mario.png" width="100" />
 </div>
 <h1 align="center">
 pzeel2.github.io
