@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/Zeelpatel02/Zeelpatel02.github.io/main/img/mario.png" width="100" />
 </div>
 <h1 align="center">
-pzeel2.github.io
+zeel2patel.github.io
 </h1>
 <p align="center">
 Hello! Thanks for finding out the repo for my latest portfolio website. This website is not just my new portfolio, but also a private project in and of itself. i feel I've grown quite bit as a developer & designer within the past year, so I wanted to make something to showcase a number of what I've learned and done.
